@@ -98,3 +98,15 @@ input{
 .feature{
     text-align: center;
 }
+/*html, body{
+    height: auto;
+}*/ 
+section#features{
+    background-color: rgb(230, 230, 250);
+    border-top: 0.1rem solid rgb(0, 0, 128);
+    border-bottom: rgb(0, 0, 128);
+    
+}
+section#features *{
+    color: salmon;
+}
