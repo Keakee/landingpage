@@ -110,3 +110,14 @@ section#features{
 section#features *{
     color: salmon;
 }
+section#features .feature{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    text-align: center;
+}
+.btn-info{
+    background-color: plum !important;
+}
+.bg-info{
+    background-color: plum !important;
+}
