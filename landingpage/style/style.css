@@ -2,7 +2,7 @@
     border: 1px solid red; 
 }
 .my_col{
-    border: 1px solid blue; 
+    /*border: 1px solid blue; */
 }
 .topmenu{
     font-size: 1.5em;
@@ -120,4 +120,21 @@ section#features .feature{
 }
 .bg-info{
     background-color: plum !important;
+}
+section#photolist .container-fluid{
+    margin-top: 5%;
+    overflow: hidden;
+    margin: 20px auto 0 auto;
+}
+section#photolist .btmrow{
+    margin-top: 5%;
+}
+section#photolist .col{
+    text-align: center;
+    float: left;
+    margin-right: 0;
+}
+.gallerytitle{
+    margin-top: 5%;
+    margin-left: 4%;
 }
