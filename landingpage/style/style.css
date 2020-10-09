@@ -2,7 +2,7 @@
     border: 1px solid red; 
 }
 .my_col{
-    /*border: 1px solid blue; */
+    border: 1px solid blue;
 }
 .topmenu{
     font-size: 1.5em;
@@ -77,6 +77,9 @@ section#about h3{
     margin-top: 4.5rem;
     color: rgb(0, 0, 128);
 }
+section#about p{
+    font-size: 1.2em;
+}
 section#message .row{
     margin-top: 4.5rem;
     background-color: rgb(230, 230, 250);
@@ -137,4 +140,7 @@ section#photolist .col{
 .gallerytitle{
     margin-top: 5%;
     margin-left: 4%;
+}
+.footercontainer{
+    background-color: lightslategray;
 }
