@@ -136,10 +136,14 @@ section#photolist .col{
     text-align: center;
     float: left;
     margin-right: 0;
+    padding-bottom: 3rem;
 }
 .gallerytitle{
-    margin-top: 5%;
+    text-align: center;
+    color: rgb(0, 0, 128);
+    padding-top: 3rem;
     margin-left: 4%;
+    padding-bottom: 3rem;
 }
 .footercontainer{
     background-color: lightslategray;
@@ -163,5 +167,5 @@ footer img{
     padding-top: 2rem;
 }
 footer .footerboy{
-    border-top: solid, 2px, black;
+    border-top: solid, 2px, black !important;
 }
