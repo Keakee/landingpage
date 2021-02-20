@@ -1,0 +1,6 @@
+Change color of navbar meny button
+Move button to the right
+Add text to photogallery
+Finish the bottom half of photogallery, create standard card for the image
+Move Google Map to the right or change it to responsive
+Move tulpar icon to the right
